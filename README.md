@@ -1,4 +1,5 @@
 # gamebox UNI
 Proyecto de practica para sistemas y computacion
 ## Byte
-byte atraviesa paredes 
+byte se detiene ante las paredes 
+byte detecta errores ocultos 
