@@ -1,2 +1,4 @@
-# gamebox-uni-equipo-18
-Prueba de taller 
+# gamebox UNI
+Proyecto de practica para sistemas y computacion
+## Byte
+byte atraviesa paredes 
